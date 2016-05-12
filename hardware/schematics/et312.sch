@@ -8854,6 +8854,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="RP5A" library="rcl" deviceset="R-EU_" device="0207/7" value="390"/>
 <part name="RP5B" library="rcl" deviceset="R-EU_" device="0207/7" value="390"/>
 <part name="SUPPLY8" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
+<part name="GND18" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="SUPPLY9" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -9492,6 +9494,8 @@ Seeing as this box has been around for 16 years now, there are probably hundreds
 <instances>
 <instance part="FRAME5" gate="G$1" x="0" y="0"/>
 <instance part="X1" gate="G$1" x="119.38" y="88.9"/>
+<instance part="GND18" gate="1" x="165.1" y="111.76"/>
+<instance part="SUPPLY9" gate="G$1" x="165.1" y="119.38"/>
 </instances>
 <busses>
 </busses>

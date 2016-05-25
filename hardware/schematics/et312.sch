@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -24435,6 +24435,7 @@ Updated 2015-04-03&lt;br&gt;
 </parts>
 <sheets>
 <sheet>
+<description>Description Page</description>
 <plain>
 <text x="12.7" y="152.4" size="1.778" layer="91">Buttshock - ET-312 Schematics
 
@@ -24453,6 +24454,7 @@ Seeing as this box has been around for 16 years now, there are probably hundreds
 </nets>
 </sheet>
 <sheet>
+<description>PSU</description>
 <plain>
 </plain>
 <instances>
@@ -25329,6 +25331,7 @@ Seeing as this box has been around for 16 years now, there are probably hundreds
 </nets>
 </sheet>
 <sheet>
+<description>Small PCB</description>
 <plain>
 <text x="162.56" y="20.32" size="1.778" layer="91">Small PCB</text>
 <text x="86.36" y="134.62" size="1.778" layer="91">Menu</text>
@@ -25476,6 +25479,7 @@ Seeing as this box has been around for 16 years now, there are probably hundreds
 </nets>
 </sheet>
 <sheet>
+<description>Input stage</description>
 <plain>
 </plain>
 <instances>

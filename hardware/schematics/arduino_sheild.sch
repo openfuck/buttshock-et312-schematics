@@ -2158,178 +2158,538 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="Eagle_POWER_MAGNETICS_rev16b">
-<description>&lt;BR&gt;Wurth Elektronik - EMC Components, Power Magnetics, Signal &amp; Communications&lt;br&gt;&lt;Hr&gt;
-&lt;BR&gt;&lt;BR&gt; 
-&lt;TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0&gt;
-&lt;TR&gt;   
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;&lt;br&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt; &lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      ---------------------------&lt;BR&gt;
-&lt;B&gt;&lt;I&gt;&lt;span style='font-size:26pt;
-  color:#FF6600;'&gt;WE &lt;/span&gt;&lt;/i&gt;&lt;/b&gt;
-&lt;BR&gt;
-      ---------------------------&lt;BR&gt;&lt;b&gt;Würth Elektronik&lt;/b&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      ---------O---&lt;BR&gt;
-      ----O--------&lt;BR&gt;
-      ---------O---&lt;BR&gt;
-      ----O--------&lt;BR&gt;
-      ---------O---&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-   
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-  &lt;/TR&gt;
-
-  &lt;TR&gt;
-    &lt;TD COLSPAN=7&gt;&amp;nbsp;
-    &lt;/TD&gt;
-  &lt;/TR&gt;
-  
-&lt;/TABLE&gt;
-&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;More than you expect&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/B&gt;
-
-&lt;HR&gt;&lt;BR&gt;
-&lt;b&gt;Würth Elektronik eiSos GmbH &amp; Co. KG&lt;/b&gt;&lt;br&gt;
-EMC &amp; Inductive Solutions&lt;br&gt;
-
-Max-Eyth-Str.1&lt;br&gt;
-D-74638 Waldenburg&lt;br&gt;
-&lt;br&gt;
-Tel: +49 (0)7942-945-0&lt;br&gt;
-Fax:+49 (0)7942-945-5000&lt;br&gt;
-&lt;br&gt;
-&lt;a href="http://www.we-online.com/eagle"&gt;http://www.we-online.com/eagle&lt;/a&gt;&lt;br&gt;
-&lt;a href="mailto:libraries@we-online.com"&gt;libraries@we-online.com&lt;/a&gt; &lt;BR&gt;&lt;BR&gt;
-&lt;br&gt;&lt;HR&gt;&lt;BR&gt;
-Neither CadSoft nor WE-eiSos does warrant that this library is error-free or &lt;br&gt;
-that it meets your specific requirements.&lt;br&gt;&lt;BR&gt;
-Please contact us for more information.&lt;br&gt;&lt;BR&gt;&lt;br&gt;
-
-&lt;HR&gt;
-Eagle Version 6, Library Revision 2016b, 2016-03-10&lt;br&gt;
-
-&lt;HR&gt;
-Copyright: Würth Elektronik</description>
+<library name="trafo-xicon">
+<description>&lt;b&gt;Xicon [ Ultra-Mini ] Audio Transformers&lt;/b&gt;&lt;p&gt;
+http://www.mouser.com</description>
 <packages>
-<package name="WE-FB_EFD25_DIMENSION1">
-<smd name="1" x="-15.19" y="9.4" dx="2.5" dy="1.52" layer="1"/>
-<smd name="2" x="-15.19" y="5.64" dx="2.5" dy="1.52" layer="1"/>
-<smd name="3" x="-15.19" y="1.88" dx="2.5" dy="1.52" layer="1"/>
-<smd name="4" x="-15.19" y="-1.88" dx="2.5" dy="1.52" layer="1"/>
-<smd name="5" x="-15.19" y="-5.64" dx="2.5" dy="1.52" layer="1"/>
-<smd name="6" x="-15.19" y="-9.4" dx="2.5" dy="1.52" layer="1"/>
-<smd name="12" x="15.19" y="9.4" dx="2.5" dy="1.52" layer="1"/>
-<smd name="11" x="15.19" y="5.64" dx="2.5" dy="1.52" layer="1"/>
-<smd name="10" x="15.19" y="1.88" dx="2.5" dy="1.52" layer="1"/>
-<smd name="9" x="15.19" y="-1.88" dx="2.5" dy="1.52" layer="1"/>
-<smd name="8" x="15.19" y="-5.64" dx="2.5" dy="1.52" layer="1"/>
-<smd name="7" x="15.19" y="-9.4" dx="2.5" dy="1.52" layer="1"/>
-<wire x1="-16.155" y1="13.515" x2="-16.155" y2="-13.515" width="0.127" layer="51"/>
-<wire x1="-16.155" y1="-13.515" x2="16.155" y2="-13.515" width="0.127" layer="21"/>
-<wire x1="16.155" y1="-13.515" x2="16.155" y2="13.515" width="0.127" layer="51"/>
-<wire x1="16.155" y1="13.515" x2="-16.155" y2="13.515" width="0.127" layer="21"/>
-<wire x1="-16.69" y1="13.765" x2="-16.69" y2="-13.765" width="0.127" layer="39"/>
-<wire x1="-16.69" y1="-13.765" x2="16.69" y2="-13.765" width="0.127" layer="39"/>
-<wire x1="16.69" y1="-13.765" x2="16.69" y2="13.765" width="0.127" layer="39"/>
-<wire x1="16.69" y1="13.765" x2="-16.69" y2="13.765" width="0.127" layer="39"/>
-<text x="-16.51" y="15.24" size="1.27" layer="25">&gt;NAME</text>
-<text x="-16.51" y="-16.51" size="1.27" layer="27">&gt;VALUE</text>
-<wire x1="16.155" y1="13.515" x2="16.155" y2="11.43" width="0.127" layer="21"/>
-<wire x1="16.155" y1="-11.43" x2="16.155" y2="-13.515" width="0.127" layer="21"/>
-<wire x1="-16.155" y1="-11.43" x2="-16.155" y2="-13.515" width="0.127" layer="21"/>
-<wire x1="-16.155" y1="13.515" x2="-16.155" y2="11.43" width="0.127" layer="21"/>
+<package name="42TL">
+<description>&lt;b&gt;Xicon Ultra-Mini Audio Transformer&lt;/b&gt; 42TL Series&lt;p&gt;
+Category:   Audio &amp; Signal Transformers&lt;br&gt;
+Source: http://www.mouser.com//catalog/specsheets/164201.pdf</description>
+<wire x1="-7.493" y1="-2.9337" x2="7.5184" y2="-2.9337" width="0.127" layer="21"/>
+<wire x1="7.5184" y1="2.9163" x2="7.5184" y2="-2.9337" width="0.127" layer="21"/>
+<wire x1="-5.6439" y1="2.9575" x2="-5.6439" y2="5.6312" width="0.127" layer="21"/>
+<wire x1="-5.6439" y1="5.6312" x2="-3.7948" y2="7.4803" width="0.127" layer="21" curve="-90"/>
+<wire x1="5.6439" y1="5.6312" x2="3.7948" y2="7.4803" width="0.127" layer="21" curve="90.006197"/>
+<wire x1="-5.6438" y1="-5.6566" x2="-3.7947" y2="-7.5057" width="0.127" layer="21" curve="90"/>
+<wire x1="-3.7947" y1="-7.5057" x2="3.7948" y2="-7.5057" width="0.127" layer="21"/>
+<wire x1="3.7948" y1="-7.5057" x2="5.6439" y2="-5.6566" width="0.127" layer="21" curve="90"/>
+<wire x1="5.6439" y1="-5.6566" x2="5.6439" y2="-3.0099" width="0.127" layer="21"/>
+<wire x1="-5.6438" y1="-5.6566" x2="-5.6438" y2="-3.0099" width="0.127" layer="21"/>
+<wire x1="5.6439" y1="5.6312" x2="5.6439" y2="2.9575" width="0.127" layer="21"/>
+<wire x1="3.7948" y1="7.4803" x2="-3.7948" y2="7.4803" width="0.127" layer="21"/>
+<wire x1="7.493" y1="2.9337" x2="-7.5184" y2="2.9337" width="0.127" layer="21"/>
+<wire x1="-7.5184" y1="-2.9313" x2="-7.5184" y2="2.9337" width="0.127" layer="21"/>
+<pad name="1" x="-2.54" y="-6.096" drill="0.7" diameter="1.3"/>
+<pad name="2" x="0" y="-6.0681" drill="0.7" diameter="1.3"/>
+<pad name="3" x="2.54" y="-6.096" drill="0.7" diameter="1.3"/>
+<pad name="6" x="-2.54" y="6.096" drill="0.7" diameter="1.3"/>
+<pad name="5" x="0" y="6.096" drill="0.7" diameter="1.3"/>
+<pad name="4" x="2.54" y="6.096" drill="0.7" diameter="1.3"/>
+<text x="-4.8421" y="5.4048" size="1.27" layer="21">6</text>
+<text x="-4.642" y="-6.7059" size="1.27" layer="21">1</text>
+<text x="-5.08" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-5.08" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<hole x="-7.3533" y="0" drill="1.9"/>
+<hole x="7.3533" y="0" drill="1.9"/>
+</package>
+<package name="42TC">
+<description>&lt;b&gt;Xicon Ultra-Mini Audio Transformer&lt;/b&gt; 42TC Series&lt;p&gt;
+Source: http://www.mouser.com/catalog/specsheets/114225.pdf</description>
+<wire x1="4.2" y1="-2.45" x2="4.2" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="4.2" y1="-5.45" x2="3.2" y2="-6.45" width="0.127" layer="21" curve="-90"/>
+<wire x1="4.2" y1="2.45" x2="4.2" y2="5.45" width="0.127" layer="21"/>
+<wire x1="4.2" y1="5.45" x2="3.2" y2="6.45" width="0.127" layer="21" curve="90"/>
+<wire x1="3.2" y1="6.45" x2="-3.2" y2="6.45" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="6.45" x2="-4.2" y2="5.45" width="0.127" layer="21" curve="90"/>
+<wire x1="-4.2" y1="5.45" x2="-4.2" y2="2.45" width="0.127" layer="21"/>
+<wire x1="-4.2" y1="-2.45" x2="-4.2" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="-4.2" y1="-5.45" x2="-3.2" y2="-6.45" width="0.127" layer="21" curve="90"/>
+<wire x1="-3.2" y1="-6.45" x2="3.2" y2="-6.45" width="0.127" layer="21"/>
+<wire x1="-6.193" y1="-2.4337" x2="6.2184" y2="-2.4337" width="0.127" layer="21"/>
+<wire x1="6.193" y1="2.4337" x2="-6.2184" y2="2.4337" width="0.127" layer="21"/>
+<wire x1="-6.2184" y1="-2.4313" x2="-6.2184" y2="2.4337" width="0.127" layer="21"/>
+<wire x1="6.2184" y1="2.4313" x2="6.2184" y2="-2.4337" width="0.127" layer="21"/>
+<pad name="1" x="-2.794" y="-4.3434" drill="0.7" diameter="1.3"/>
+<pad name="2" x="0" y="-4.3434" drill="0.7" diameter="1.3"/>
+<pad name="3" x="2.794" y="-4.3434" drill="0.7" diameter="1.3"/>
+<pad name="4" x="2.794" y="4.3434" drill="0.7" diameter="1.3" rot="R180"/>
+<pad name="5" x="0" y="4.3434" drill="0.7" diameter="1.3" rot="R180"/>
+<pad name="6" x="-2.794" y="4.3434" drill="0.7" diameter="1.3" rot="R180"/>
+<text x="-4.445" y="0.635" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4.445" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
+<text x="-1.905" y="-3.81" size="0.8128" layer="27">P</text>
+<text x="1.143" y="2.794" size="0.8128" layer="27">S</text>
+<hole x="-6.2484" y="0" drill="1.9"/>
+<hole x="6.2484" y="0" drill="1.9"/>
+</package>
+<package name="42TM">
+<description>&lt;b&gt;Xicon Ultra-Mini Audio Transformer&lt;/b&gt; 42TM Series&lt;p&gt;
+Source: http://www.mouser.com/catalog/specsheets/164267.pdf</description>
+<wire x1="6.2" y1="-2.35" x2="6.2" y2="-5.95" width="0.127" layer="21"/>
+<wire x1="6.2" y1="-5.95" x2="4.7" y2="-7.45" width="0.127" layer="21" curve="-90"/>
+<wire x1="4.7" y1="-7.45" x2="-4.7" y2="-7.45" width="0.127" layer="21"/>
+<wire x1="-4.7" y1="-7.45" x2="-6.2" y2="-5.95" width="0.127" layer="21" curve="-90"/>
+<wire x1="-6.2" y1="2.35" x2="-6.2" y2="5.95" width="0.127" layer="21"/>
+<wire x1="-6.2" y1="5.95" x2="-4.7" y2="7.45" width="0.127" layer="21" curve="-90"/>
+<wire x1="-4.7" y1="7.45" x2="4.7" y2="7.45" width="0.127" layer="21"/>
+<wire x1="4.7" y1="7.45" x2="6.2" y2="5.95" width="0.127" layer="21" curve="-90"/>
+<wire x1="6.2" y1="5.95" x2="6.2" y2="2.35" width="0.127" layer="21"/>
+<wire x1="-10.95" y1="2.35" x2="-6.2" y2="2.35" width="0.127" layer="21"/>
+<wire x1="6.2" y1="2.35" x2="10.95" y2="2.35" width="0.127" layer="21"/>
+<wire x1="10.95" y1="-2.35" x2="6.2" y2="-2.35" width="0.127" layer="21"/>
+<wire x1="-6.2" y1="-2.35" x2="-10.95" y2="-2.35" width="0.127" layer="21"/>
+<wire x1="-10.95" y1="2.35" x2="-10.95" y2="-2.35" width="0.127" layer="21"/>
+<wire x1="10.95" y1="-2.35" x2="10.95" y2="2.35" width="0.127" layer="21"/>
+<wire x1="-6.2" y1="2.35" x2="6.2" y2="2.35" width="0.127" layer="21"/>
+<wire x1="6.2" y1="-2.35" x2="-6.2" y2="-2.35" width="0.127" layer="21"/>
+<wire x1="-6.2" y1="-5.95" x2="-6.2" y2="-2.35" width="0.127" layer="21"/>
+<pad name="1" x="-3.556" y="-6.35" drill="0.7" diameter="1.3"/>
+<pad name="2" x="0" y="-6.35" drill="0.7" diameter="1.3"/>
+<pad name="3" x="3.556" y="-6.35" drill="0.7" diameter="1.3"/>
+<pad name="4" x="3.556" y="6.35" drill="0.7" diameter="1.3" rot="R180"/>
+<pad name="5" x="0" y="6.35" drill="0.7" diameter="1.3" rot="R180"/>
+<pad name="6" x="-3.556" y="6.35" drill="0.7" diameter="1.3" rot="R180"/>
+<text x="0" y="-4.445" size="1.016" layer="21">P</text>
+<text x="0" y="3.81" size="1.016" layer="21">S</text>
+<text x="-5.715" y="-9.525" size="1.27" layer="25">&gt;NAME</text>
+<text x="-6.985" y="-1.27" size="1.27" layer="27">&gt;VALUE</text>
+<hole x="-9.9822" y="0" drill="1.9"/>
+<hole x="9.9822" y="0" drill="1.9"/>
 </package>
 </packages>
 <symbols>
-<symbol name="L_2W:1W_1">
-<wire x1="2.54" y1="-1.27" x2="2.54" y2="0" width="0.254" layer="94" curve="-180"/>
-<wire x1="2.54" y1="0" x2="2.54" y2="1.27" width="0.254" layer="94" curve="-180"/>
-<wire x1="2.54" y1="1.27" x2="2.54" y2="2.54" width="0.254" layer="94" curve="-180"/>
-<wire x1="2.54" y1="-2.54" x2="2.54" y2="-1.27" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="-3.81" x2="-2.54" y2="-5.08" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="-2.54" x2="-2.54" y2="-3.81" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="-1.27" x2="-2.54" y2="-2.54" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="0" x2="-2.54" y2="-1.27" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="1.27" x2="-2.54" y2="0" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="2.54" x2="-2.54" y2="1.27" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="3.81" x2="-2.54" y2="2.54" width="0.254" layer="94" curve="-180"/>
-<wire x1="-2.54" y1="5.08" x2="-2.54" y2="3.81" width="0.254" layer="94" curve="-180"/>
-<pin name="3" x="5.08" y="-2.54" visible="pad" length="short" direction="pas" rot="R180"/>
-<pin name="2" x="5.08" y="2.54" visible="pad" length="short" direction="pas" rot="R180"/>
-<pin name="4" x="-5.08" y="-5.08" visible="pad" length="short" direction="pas"/>
-<pin name="5" x="-5.08" y="0" visible="pad" length="short" direction="pas"/>
-<pin name="1" x="-5.08" y="5.08" visible="pad" length="short" direction="pas"/>
-<wire x1="0.3" y1="-6" x2="0.3" y2="6" width="0.254" layer="94"/>
-<wire x1="-0.3" y1="-6" x2="-0.3" y2="6" width="0.254" layer="94"/>
-<circle x="-2.54" y="-0.79375" radius="0.12" width="0.254" layer="94"/>
-<circle x="-2.8575" y="4.28625" radius="0.12" width="0.254" layer="94"/>
-<circle x="2.54" y="1.74625" radius="0.12" width="0.254" layer="94"/>
-<text x="1.27" y="-7.62" size="1.778" layer="95">&gt;VALUE</text>
-<text x="1.27" y="6.35" size="1.778" layer="95">&gt;NAME</text>
+<symbol name="TRAFO-P3-S3">
+<wire x1="1.27" y1="5.207" x2="1.27" y2="-5.207" width="0.254" layer="94"/>
+<circle x="-3.429" y="4.318" radius="0.127" width="0.3048" layer="94"/>
+<circle x="-3.429" y="-0.762" radius="0.127" width="0.3048" layer="94"/>
+<circle x="6.096" y="0.635" radius="0.127" width="0.3048" layer="94"/>
+<circle x="6.096" y="-4.445" radius="0.127" width="0.3048" layer="94"/>
+<text x="-2.54" y="6.35" size="1.778" layer="95">&gt;NAME</text>
+<text x="-2.54" y="-8.763" size="1.778" layer="96">&gt;VALUE</text>
+<text x="5.715" y="2.667" size="1.27" layer="94">S</text>
+<text x="-4.191" y="-3.429" size="1.27" layer="94">P</text>
+<rectangle x1="-2.794" y1="-5.1308" x2="-0.254" y2="5.1308" layer="94"/>
+<rectangle x1="2.794" y1="-5.1308" x2="5.334" y2="5.1308" layer="94"/>
+<pin name="1" x="-7.62" y="5.08" visible="pad" length="middle" direction="pas" swaplevel="1"/>
+<pin name="2" x="-7.62" y="0" visible="pad" length="middle" direction="pas" swaplevel="1"/>
+<pin name="4" x="10.16" y="-5.08" visible="pad" length="middle" direction="pas" swaplevel="4" rot="R180"/>
+<pin name="5" x="10.16" y="0" visible="pad" length="middle" direction="pas" swaplevel="3" rot="R180"/>
+<pin name="6" x="10.16" y="5.08" visible="pad" length="middle" direction="pas" swaplevel="3" rot="R180"/>
+<pin name="3" x="-7.62" y="-5.08" visible="pad" length="middle" direction="pas" swaplevel="2"/>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="WE-FB_LT35XX/LT3748_EFD25_750310988" prefix="T" uservalue="yes">
-<description>&lt;b&gt; &lt;b&gt; WE-FB Flyback Transformer LT35xx / LT3748&lt;/B&gt;
-&lt;br&gt;
-&lt;BR&gt;
-Characteristics
-&lt;br&gt; &lt;/B&gt;Standard transformers for various output voltages currents available&lt;BR&gt;&lt;/B&gt;
- Easy design of custom power supply due to standard circuit and change of transformers and two components for feedback loop&lt;BR&gt;
-Isolation voltage up to 2.5 kV
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;b&gt; Applications &lt;BR&gt;
-&lt;/B&gt; Isolated power design&lt;BR&gt;
-Sensor interfaces&lt;BR&gt;
-Isolated telecom converters&lt;BR&gt;
- Power over Ethernet&lt;BR&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-&lt;br&gt;&lt;a href="http://katalog.we-online.de/media/images/eisos/UtFB_LT_MID_pf2.jpg" title="Enlarge picture"&gt;
-&lt;img src="http://katalog.we-online.de/media/thumbs2/eisos/thb_UtFB_LT_MID_pf2.jpg" width="320"&gt;&lt;/a&gt;&lt;p&gt;
-Details see: &lt;a href="http://katalog.we-online.de/en/pbs/WE-FB_Linear?"&gt;http://katalog.we-online.de/en/pbs/WE-FB_Linear?&lt;/a&gt;&lt;p&gt;
-
-
-Updated 2015-04-03&lt;br&gt;
-2015 (C) Wurth Elektronik
-&lt;br&gt;</description>
+<deviceset name="42T?*" prefix="TR">
+<description>&lt;b&gt;Xicon Micro-Mini EI-12 Audio Transformers&lt;/b&gt; 42TL/42TC/42TM Series&lt;p&gt;
+Source:&lt;br&gt;
+http://www.mouser.com//catalog/specsheets/164201.pdf&lt;br&gt;
+http://www.mouser.com/catalog/specsheets/114225.pdf&lt;br&gt;
+http://www.mouser.com/catalog/specsheets/164267.pdf</description>
 <gates>
-<gate name="G$1" symbol="L_2W:1W_1" x="0" y="0"/>
+<gate name="G$1" symbol="TRAFO-P3-S3" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="WE-FB_EFD25_DIMENSION1">
+<device name="L" package="42TL">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="8"/>
-<connect gate="G$1" pin="3" pad="11"/>
-<connect gate="G$1" pin="4" pad="3"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
 <connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="001">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="002">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="003">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="004">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="006">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="008">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="009">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="011">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="012">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="013">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="016">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="017">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="018">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="019">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="020">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="021">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="022">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="023">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="024">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="025">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="026">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="027">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="030">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="031">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="218">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="C" package="42TC">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+</connects>
+<technologies>
+<technology name="001">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="013">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="016">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="C0" package="42TC">
+<connects>
+<connect gate="G$1" pin="1" pad="4"/>
+<connect gate="G$1" pin="2" pad="5"/>
+<connect gate="G$1" pin="3" pad="6"/>
+<connect gate="G$1" pin="4" pad="1"/>
+<connect gate="G$1" pin="5" pad="2"/>
+<connect gate="G$1" pin="6" pad="3"/>
+</connects>
+<technologies>
+<technology name="19">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="21">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="30">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="M" package="42TM">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+</connects>
+<technologies>
+<technology name="001">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="002">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="003">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="004">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="006">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="008">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="009">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="010">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="011">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="012">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="013">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="016">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="017">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="018">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="019">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="020">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="021">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="022">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="023">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="024">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="025">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="026">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="027">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="030">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="031">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="114">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="117">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
+<technology name="118">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -2393,8 +2753,6 @@ Updated 2015-04-03&lt;br&gt;
 <part name="X6" library="adafruit" deviceset="STEREOJACK" device=""/>
 <part name="R52" library="eagle-ltspice" deviceset="R" device="0207/10" value="0.5R"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
-<part name="T2" library="Eagle_POWER_MAGNETICS_rev16b" deviceset="WE-FB_LT35XX/LT3748_EFD25_750310988" device=""/>
-<part name="T3" library="Eagle_POWER_MAGNETICS_rev16b" deviceset="WE-FB_LT35XX/LT3748_EFD25_750310988" device=""/>
 <part name="U$3" library="adafruit" deviceset="ARDUINO" device="UNO"/>
 <part name="GND40" library="supply1" deviceset="GND" device=""/>
 <part name="GND41" library="supply1" deviceset="GND" device=""/>
@@ -2411,6 +2769,8 @@ Updated 2015-04-03&lt;br&gt;
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" deviceset="+12V" device=""/>
 <part name="P+9" library="supply1" deviceset="+12V" device=""/>
+<part name="TR1" library="trafo-xicon" deviceset="42T?*" device="L" technology="025"/>
+<part name="TR2" library="trafo-xicon" deviceset="42T?*" device="L" technology="025"/>
 </parts>
 <sheets>
 <sheet>
@@ -2657,12 +3017,10 @@ Updated 2015-04-03&lt;br&gt;
 <instance part="GND15" gate="1" x="93.98" y="25.4"/>
 <instance part="R22" gate="G$1" x="50.8" y="40.64"/>
 <instance part="FRAME6" gate="G$1" x="0" y="0"/>
-<instance part="X5" gate="1" x="187.96" y="134.62"/>
-<instance part="X6" gate="1" x="187.96" y="53.34"/>
+<instance part="X5" gate="1" x="200.66" y="134.62"/>
+<instance part="X6" gate="1" x="200.66" y="53.34"/>
 <instance part="R52" gate="G$1" x="40.64" y="154.94" rot="R90"/>
 <instance part="GND21" gate="1" x="40.64" y="144.78"/>
-<instance part="T2" gate="G$1" x="162.56" y="132.08"/>
-<instance part="T3" gate="G$1" x="162.56" y="50.8"/>
 <instance part="GND42" gate="1" x="228.6" y="137.16"/>
 <instance part="P+7" gate="1" x="73.66" y="71.12"/>
 <instance part="P+4" gate="1" x="60.96" y="154.94"/>
@@ -2673,6 +3031,8 @@ Updated 2015-04-03&lt;br&gt;
 <instance part="GND2" gate="1" x="73.66" y="22.86"/>
 <instance part="P+8" gate="1" x="109.22" y="111.76"/>
 <instance part="P+9" gate="1" x="109.22" y="35.56"/>
+<instance part="TR1" gate="G$1" x="170.18" y="132.08"/>
+<instance part="TR2" gate="G$1" x="170.18" y="50.8"/>
 </instances>
 <busses>
 </busses>
@@ -2885,15 +3245,15 @@ Updated 2015-04-03&lt;br&gt;
 <pinref part="Q1" gate="G$1" pin="D"/>
 <wire x1="121.92" y1="157.48" x2="152.4" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="157.48" x2="152.4" y2="137.16" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="137.16" x2="152.4" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="T2" gate="G$1" pin="1"/>
+<pinref part="TR1" gate="G$1" pin="1"/>
+<wire x1="162.56" y1="137.16" x2="152.4" y2="137.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$35" class="0">
 <segment>
 <pinref part="Q3" gate="G$1" pin="D"/>
-<wire x1="124.46" y1="132.08" x2="157.48" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="T2" gate="G$1" pin="5"/>
+<wire x1="124.46" y1="132.08" x2="162.56" y2="132.08" width="0.1524" layer="91"/>
+<pinref part="TR1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$36" class="0">
@@ -2901,15 +3261,15 @@ Updated 2015-04-03&lt;br&gt;
 <pinref part="Q4" gate="G$1" pin="D"/>
 <wire x1="121.92" y1="81.28" x2="152.4" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="81.28" x2="152.4" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="55.88" x2="152.4" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="T3" gate="G$1" pin="1"/>
+<pinref part="TR2" gate="G$1" pin="1"/>
+<wire x1="162.56" y1="55.88" x2="152.4" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$37" class="0">
 <segment>
 <pinref part="Q6" gate="G$1" pin="D"/>
-<wire x1="124.46" y1="50.8" x2="157.48" y2="50.8" width="0.1524" layer="91"/>
-<pinref part="T3" gate="G$1" pin="5"/>
+<wire x1="124.46" y1="50.8" x2="162.56" y2="50.8" width="0.1524" layer="91"/>
+<pinref part="TR2" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$38" class="0">
@@ -2917,8 +3277,8 @@ Updated 2015-04-03&lt;br&gt;
 <pinref part="Q5" gate="G$1" pin="D"/>
 <wire x1="124.46" y1="22.86" x2="152.4" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="22.86" x2="152.4" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="45.72" x2="152.4" y2="45.72" width="0.1524" layer="91"/>
-<pinref part="T3" gate="G$1" pin="4"/>
+<pinref part="TR2" gate="G$1" pin="3"/>
+<wire x1="162.56" y1="45.72" x2="152.4" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$39" class="0">
@@ -2926,8 +3286,8 @@ Updated 2015-04-03&lt;br&gt;
 <pinref part="Q2" gate="G$1" pin="D"/>
 <wire x1="124.46" y1="104.14" x2="152.4" y2="104.14" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="104.14" x2="152.4" y2="127" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="127" x2="152.4" y2="127" width="0.1524" layer="91"/>
-<pinref part="T2" gate="G$1" pin="4"/>
+<pinref part="TR1" gate="G$1" pin="3"/>
+<wire x1="162.56" y1="127" x2="152.4" y2="127" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$40" class="0">
@@ -2957,50 +3317,6 @@ Updated 2015-04-03&lt;br&gt;
 <pinref part="R20" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="38.1" x2="73.66" y2="45.72" width="0.1524" layer="91"/>
 <junction x="73.66" y="45.72"/>
-</segment>
-</net>
-<net name="N$66" class="0">
-<segment>
-<pinref part="X6" gate="1" pin="1"/>
-<wire x1="175.26" y1="45.72" x2="170.18" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="45.72" x2="170.18" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="48.26" x2="167.64" y2="48.26" width="0.1524" layer="91"/>
-<pinref part="T3" gate="G$1" pin="3"/>
-</segment>
-</net>
-<net name="N$67" class="0">
-<segment>
-<pinref part="X6" gate="1" pin="5"/>
-<wire x1="175.26" y1="55.88" x2="172.72" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="X6" gate="1" pin="2"/>
-<wire x1="172.72" y1="55.88" x2="172.72" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="53.34" x2="172.72" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="48.26" x2="175.26" y2="48.26" width="0.1524" layer="91"/>
-<pinref part="T3" gate="G$1" pin="2"/>
-<wire x1="167.64" y1="53.34" x2="172.72" y2="53.34" width="0.1524" layer="91"/>
-<junction x="172.72" y="53.34"/>
-</segment>
-</net>
-<net name="N$77" class="0">
-<segment>
-<pinref part="X5" gate="1" pin="1"/>
-<wire x1="175.26" y1="127" x2="170.18" y2="127" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="127" x2="170.18" y2="129.54" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="129.54" x2="167.64" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="T2" gate="G$1" pin="3"/>
-</segment>
-</net>
-<net name="N$78" class="0">
-<segment>
-<pinref part="X5" gate="1" pin="5"/>
-<wire x1="175.26" y1="137.16" x2="172.72" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="X5" gate="1" pin="2"/>
-<wire x1="172.72" y1="137.16" x2="172.72" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="134.62" x2="172.72" y2="129.54" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="129.54" x2="175.26" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="T2" gate="G$1" pin="2"/>
-<wire x1="167.64" y1="134.62" x2="172.72" y2="134.62" width="0.1524" layer="91"/>
-<junction x="172.72" y="134.62"/>
 </segment>
 </net>
 <net name="PB2" class="0">
@@ -3074,6 +3390,46 @@ Updated 2015-04-03&lt;br&gt;
 <wire x1="124.46" y1="30.48" x2="124.46" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="30.48" x2="116.84" y2="30.48" width="0.1524" layer="91"/>
 <junction x="116.84" y="30.48"/>
+</segment>
+</net>
+<net name="N$1" class="0">
+<segment>
+<pinref part="TR1" gate="G$1" pin="4"/>
+<pinref part="X5" gate="1" pin="1"/>
+<wire x1="180.34" y1="127" x2="187.96" y2="127" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$2" class="0">
+<segment>
+<pinref part="TR1" gate="G$1" pin="6"/>
+<pinref part="X5" gate="1" pin="5"/>
+<wire x1="180.34" y1="137.16" x2="185.42" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="137.16" x2="187.96" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="137.16" x2="185.42" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="137.16" x2="185.42" y2="129.54" width="0.1524" layer="91"/>
+<pinref part="X5" gate="1" pin="2"/>
+<wire x1="185.42" y1="129.54" x2="187.96" y2="129.54" width="0.1524" layer="91"/>
+<junction x="185.42" y="137.16"/>
+</segment>
+</net>
+<net name="N$3" class="0">
+<segment>
+<pinref part="TR2" gate="G$1" pin="6"/>
+<pinref part="X6" gate="1" pin="5"/>
+<wire x1="180.34" y1="55.88" x2="185.42" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="55.88" x2="187.96" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="55.88" x2="185.42" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="55.88" x2="185.42" y2="48.26" width="0.1524" layer="91"/>
+<pinref part="X6" gate="1" pin="2"/>
+<wire x1="185.42" y1="48.26" x2="187.96" y2="48.26" width="0.1524" layer="91"/>
+<junction x="185.42" y="55.88"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="X6" gate="1" pin="1"/>
+<pinref part="TR2" gate="G$1" pin="4"/>
+<wire x1="187.96" y1="45.72" x2="180.34" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

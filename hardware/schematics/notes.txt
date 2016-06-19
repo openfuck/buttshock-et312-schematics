@@ -1,0 +1,36 @@
+done:
+
+- changed grid to 0.1mm to help place components
+- forced all components onto 0.1mm grid
+- added gnd plane on bottom of board
+- added two caps for decoupling the DAC+OP-AMP
+- added 10K pull-up on the nCS line to the DAC
+
+ideas:
+- add LED on unused digital pin.
+
+
+fixes
+- IC1G2 swaped +/- input to make negative feedback
+
+notes:
+
+no decoupling on +5V (fixed)
+
+no bulk decoupling on +12V or +5V
+-> suggest 10uF 0805 on 5V near DAC
+-> suggest 10uF near op-amp area
+-> suggest 47uF or 100uF near the +12V transformer drive
+
+
+bias for op-amps seem to be either 5V or 12V (not consistent)
+
+if digital-io is not important then you could:
+- 5->8
+- 3->7
+
+todo:
+- check body-diode on pfets driving transformer centre-tap
+ -> think it is ok, diode goes drain-to-source on selected FET
+ -> source is the outer pin (drain middle)
+
